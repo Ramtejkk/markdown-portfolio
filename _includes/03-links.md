@@ -1,1 +1,1 @@
-[Github] (http://github.com)
+[ABC] (htts://example.com)
