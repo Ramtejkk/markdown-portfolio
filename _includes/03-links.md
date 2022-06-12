@@ -1,1 +1,1 @@
-[GIT] (htts://github.com/Ramtejkk/mrkdown-portfolio)
+[Google] (https://google.com)
