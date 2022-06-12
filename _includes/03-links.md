@@ -1,1 +1,1 @@
-[Ramtej] (https://Ramtejkk.com)
+[text] (https://example.com)
