@@ -1,1 +1,1 @@
-[ramtej is the new link] (https://github.com/Ramtejkk/markdown-portfolio)
+[ramtej is the new link] (https://github.com/Ramtejkk)
