@@ -1,1 +1,1 @@
-[ABC] (htts://example.com)
+[GIT] (htts://github.com/Ramtejkk/mrkdown-portfolio)
